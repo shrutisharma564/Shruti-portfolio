@@ -47,7 +47,7 @@ export const projects = [
       "Code generation for IA-32 assembly output"
     ],
     stack: ["C", "Flex", "Bison", "Clang", "Compiler Design"],
-    github: null
+    github: "https://github.com/shrutisharma564/Compiler",
   },
   {
     number: "04",
